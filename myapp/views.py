@@ -19,7 +19,7 @@ def login(request):
         except:
             return JsonResponse({"status": "failed", "auth": False})
 
-    if request.method == 'GET':
+     if request.method == 'GET':
         return HttpResponse("Make Post Request for geting live status for Slot")
 
 @csrf_exempt
