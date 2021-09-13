@@ -13,8 +13,7 @@ def login(request):
         password = request.POST.get('password')
 
         try:
-            result = Loginuser.objects.filter(
-                email=email, password=password)[0]
+            result = Loginuser.objects.filter(email=email, password=password)[0]
 
             return JsonResponse({"status": "succes", "auth": True})
         except:
