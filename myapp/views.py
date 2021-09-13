@@ -13,14 +13,16 @@ def login(request):
         password = request.POST.get('password')
 
         try:
-            result = Loginuser.objects.filter(email=email, password=password)[0]
+            result = Loginuser.objects.filter(
+                email=email, password=password)[0]
 
             return JsonResponse({"status": "succes", "auth": True})
         except:
             return JsonResponse({"status": "failed", "auth": False})
 
-     if request.method == 'GET':
-        return HttpResponse("Make ")
+    if request.method == 'GET':
+        return HttpResponse("Make Post Request for geting live status for Slot")
+
 
 @csrf_exempt
 def register(request):
