@@ -72,7 +72,7 @@ class Testimonial extends Component {
                                                 <div className="carousel-item active">
                                                     <div className="testi text-center">
                                                         <p className="text-muted">The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</p>
-                                                        <img src={img1} alt="" className="testi-img avatar-md img-fluid rounded-circle mx-auto d-block" />
+
                                                         <p className="text-muted mb-1 mt-3"> - Landing page User</p>
                                                         <h5 className="f-18">Mathew Herbert</h5>
 
@@ -85,7 +85,7 @@ class Testimonial extends Component {
                                                 <div className="carousel-item active">
                                                     <div className="testi text-center">
                                                         <p className="text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has normal distribution of letters, as opposed to using making it look like readable English</p>
-                                                        <img src={img2} alt="" className="testi-img avatar-md img-fluid rounded-circle mx-auto d-block" />
+
                                                         <p className="text-muted  mb-1 mt-3"> - Landing page User</p>
                                                         <h5 className="f-18">Richard Kirtley</h5>
                                                     </div>
@@ -95,7 +95,7 @@ class Testimonial extends Component {
                                                 <div className="carousel-item active">
                                                     <div className="testi text-center">
                                                         <p className="text-muted">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
-                                                        <img src={img3} alt="" className="testi-img avatar-md img-fluid rounded-circle mx-auto d-block" />
+
                                                         <p className="text-muted mb-1 mt-3"> - Landing page User</p>
                                                         <h5 className="f-18">Derrick Marshall</h5>
                                                     </div>

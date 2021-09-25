@@ -53,9 +53,7 @@ class AboutUs extends Component {
                                 <div className="about-content p-4">
                                     <h6 className="mb-4">A Online IT  Training Portal</h6>
                                     <p className="text-muted">It is a long established fact that a reader will be distracted by the readable content of a page looking at its layout. The point of using Lorem Ipsum is that it has a normal distribution of letters.</p>
-                                    <div className="pt-4">
-                                        <Link to="#" className="btn btn-custom"> <i className="mdi mdi-arrow-right"></i></Link>
-                                    </div>
+
                                 </div>
                             </Col>
                         </Row>

@@ -23,14 +23,9 @@ class Footer extends Component {
                         <Row>
                             <Col lg="3">
                                 <div className="text-white">
-                                    <h3 className="mb-4 footer-list-title f-17">Adarsh Mishra Training</h3>
-                                    <ul className="footer-icons list-inline mb-4">
-                                        <li className="list-inline-item"><Link to="#" className=""><i className="mdi mdi-facebook"></i></Link></li>
-                                        <li className="list-inline-item"><Link to="#" className=""><i className="mdi mdi-twitter"></i></Link></li>
-                                        <li className="list-inline-item"><Link to="#" className=""><i className="mdi mdi-instagram"></i></Link></li>
-                                        <li className="list-inline-item"><Link to="#" className=""><i className="mdi mdi-google"></i></Link></li>
-                                    </ul>
-                                    <p className="copyright mt-3">{new Date().getFullYear()} © Adarsh Mishra Training.</p>
+                                    <h3 className="mb-4 footer-list-title f-17">Mainorex Training</h3>
+
+                                    <p className="copyright mt-3">{new Date().getFullYear()} © Mainorex Training.</p>
                                     <p className="copyright mt-3"> Mobile no:- +91 7363050571, +91 7908999648</p>
                                     <p className="copyright mt-3"> Emailid:- adarshmishra4327@gmail.com</p>
                                 </div>

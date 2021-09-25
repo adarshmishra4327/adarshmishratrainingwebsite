@@ -1,22 +1,22 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea36e9e4f93168cd2effac3a13d1f41e",
+    "revision": "967180404043b4cda470708ee2eb3f7d",
     "url": "/index.html"
   },
   {
-    "revision": "c67e4f307ffdcb4ce0c2",
+    "revision": "62929c3c5af48c27a83f",
     "url": "/static/css/1.703fa6f4.chunk.css"
   },
   {
-    "revision": "cb1a84ad4c3892694f54",
+    "revision": "247f82e633071799946d",
     "url": "/static/css/10.43dd1816.chunk.css"
   },
   {
-    "revision": "7ac0262b25ab085b7a89",
+    "revision": "2330289355c4c6067298",
     "url": "/static/css/11.c2274471.chunk.css"
   },
   {
-    "revision": "e7f9c6c2c30310c3b647",
+    "revision": "760c887070249d9a29f0",
     "url": "/static/css/13.382ffce9.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.ca9d22ae.chunk.css"
   },
   {
-    "revision": "52912f56eaf0c34b7087",
+    "revision": "ded905a08f91f88fb732",
     "url": "/static/css/3.703fa6f4.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/8.12ef3ee0.chunk.css"
   },
   {
-    "revision": "ce3c11bee5b240ba2be1",
+    "revision": "37737cd56e5a72d39c27",
     "url": "/static/css/main.3fbb2929.chunk.css"
   },
   {
@@ -40,28 +40,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/0.c0f301a2.chunk.js"
   },
   {
-    "revision": "c67e4f307ffdcb4ce0c2",
-    "url": "/static/js/1.d2a277ac.chunk.js"
+    "revision": "62929c3c5af48c27a83f",
+    "url": "/static/js/1.fa063320.chunk.js"
   },
   {
-    "revision": "cb1a84ad4c3892694f54",
-    "url": "/static/js/10.66066f69.chunk.js"
+    "revision": "247f82e633071799946d",
+    "url": "/static/js/10.993b1824.chunk.js"
   },
   {
-    "revision": "7ac0262b25ab085b7a89",
-    "url": "/static/js/11.927e9139.chunk.js"
+    "revision": "2330289355c4c6067298",
+    "url": "/static/js/11.d66b837c.chunk.js"
   },
   {
-    "revision": "a4db5102177b85b96dcd",
-    "url": "/static/js/12.af8a4c48.chunk.js"
+    "revision": "0a53ed614def0fc3afba",
+    "url": "/static/js/12.72c4ecb4.chunk.js"
   },
   {
-    "revision": "e7f9c6c2c30310c3b647",
-    "url": "/static/js/13.19a8f4e0.chunk.js"
+    "revision": "760c887070249d9a29f0",
+    "url": "/static/js/13.09036f6b.chunk.js"
   },
   {
-    "revision": "0563eb44b92b1fd3f0f8",
-    "url": "/static/js/14.e685a529.chunk.js"
+    "revision": "81668b9c05cf9e90e96d",
+    "url": "/static/js/14.6c7de127.chunk.js"
   },
   {
     "revision": "2c4c226addedbb27b094",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ae8b28e0.chunk.js"
   },
   {
-    "revision": "52912f56eaf0c34b7087",
-    "url": "/static/js/3.57940f1b.chunk.js"
+    "revision": "ded905a08f91f88fb732",
+    "url": "/static/js/3.b1013d5e.chunk.js"
   },
   {
     "revision": "697aeedc51d918426014",
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.4cdcf554.chunk.js"
   },
   {
-    "revision": "8c41044419f757590945",
-    "url": "/static/js/9.06856a77.chunk.js"
+    "revision": "005b35db7b39a17d1749",
+    "url": "/static/js/9.6875339f.chunk.js"
   },
   {
-    "revision": "ce3c11bee5b240ba2be1",
-    "url": "/static/js/main.8aa39b11.chunk.js"
+    "revision": "37737cd56e5a72d39c27",
+    "url": "/static/js/main.8967998a.chunk.js"
   },
   {
-    "revision": "bf1c32278b8aac954312",
-    "url": "/static/js/runtime-main.03739069.js"
+    "revision": "7e48c2b18c7e6ff71dfc",
+    "url": "/static/js/runtime-main.a51707d0.js"
   },
   {
     "revision": "01798bc13e33afc36a52f2826638d386",
@@ -116,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Pe-icon-7-stroke.c45f7de0.svg"
   },
   {
-    "revision": "ab4ed3dc73e95a4d1de16249d2c3a877",
-    "url": "/static/media/adarshmishratraininglogo.ab4ed3dc.jpg"
+    "revision": "8bd0831388df4672409248534294faad",
+    "url": "/static/media/adarshmishratraininglogo.8bd08313.jpg"
   },
   {
     "revision": "99f39be980810c65a00e3e655fb7482f",

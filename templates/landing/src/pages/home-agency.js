@@ -67,11 +67,11 @@ class homeAgency extends Component {
                                         <div className="agency-home-title text-center text-white mx-auto">
                                             <h1 className="display-4 mb-4">Learn IT skills in Anytime</h1>
                                             <p className="text-light f-17">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem of letters</p>
-                                            <div className="watch-video mt-5">
+                                            {/* <div className="watch-video mt-5">
                                                 <Link to="#" onClick={this.openModal} className="video-play-icon text-white"><i className="mdi mdi-play play-icon mr-2 h4"></i></Link>
                                                 <ModalVideo channel='youtube' isOpen={this.state.isOpen} videoId='L61p2uyiMSo' onClose={() => this.setState({ isOpen: false })} />
 
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </Col>
                                 </Row>
