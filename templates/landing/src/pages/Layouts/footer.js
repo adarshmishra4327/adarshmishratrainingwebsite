@@ -36,14 +36,9 @@ class Footer extends Component {
 
                                     </Col>
                                     <Col lg="3">
-                                        {/* <div>
-                                            <p className="text-white mb-4 footer-list-title f-17">Resources</p>
-                                            <ul className="list-unstyled footer-list-menu">
-                                                <li><Link to="#">Help & Support</Link></li>
-                                                <li><Link to="#">Privacy Policy</Link></li>
-                                                <li><Link to="#">Terms & Conditions</Link></li>
-                                            </ul>
-                                        </div> */}
+                                        <div>
+                                            <a href="https://play.google.com/store/apps/details?id=com.adarshtraining"><img height="50" width="200" src="https://www.doyoganow.com/wp-content/uploads/2018/08/Steamy-Concepts-Mobile-App-Store-Google-Play-Android.png" /></a>
+                                        </div>
                                     </Col>
                                     <Col lg="3">
                                         {/* <div>
